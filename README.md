@@ -17,10 +17,26 @@ I’m passionate about calm structure, excellent communication, and creating sea
 ---
 
 ### 🧰 My Toolkit  
-**Productivity & Communication:** Google Workspace · MS Office · Trello · Asana · Slack · Canva · Notion  
-**CRM Systems:** Clio · Zoho · Salesforce · PracticePanther  
-**Automation & AI Tools:** ChatGPT · Co-Pilot · Gemini  
-**Core Strengths:** Executive Support · Calendar Management · Global Travel Coordination · Reporting · Client Communication  
+
+**Productivity & Communication**  
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**CRM Systems**  
+![Clio](https://img.shields.io/badge/Clio-005EA6?style=flat-square&logo=clio&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-FF0000?style=flat-square&logo=zoho&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![PracticePanther](https://img.shields.io/badge/PracticePanther-2E86C1?style=flat-square&logoColor=white)
+
+**Automation & AI Tools**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Microsoft CoPilot](https://img.shields.io/badge/Microsoft%20CoPilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google&logoColor=white)
 
 ---
 
