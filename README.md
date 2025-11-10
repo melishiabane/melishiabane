@@ -1,4 +1,3 @@
-![Melishia Bane | Remote Executive Assistant](banner.png)
 # 👋 Hi, I’m **Melishia Bane**  
 ### 💼 Remote Executive Assistant | 🌍 Workflow Optimization | 🤝 Global Team Coordination  
 
